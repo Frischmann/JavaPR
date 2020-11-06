@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"BoundedWaitList"},{"p":"<Unnamed>","l":"IWaitList"},{"p":"<Unnamed>","l":"TestWaitList"},{"p":"<Unnamed>","l":"UnfairWaitList"},{"p":"<Unnamed>","l":"WaitList"}];updateSearchResults();
